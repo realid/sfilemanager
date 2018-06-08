@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>icons/toolbar/battery-full.png</file>
+        <file>icons/toolbar/edit-clear.png</file>
+        <file>icons/toolbar/edit-find.png</file>
+        <file>icons/toolbar/go-home.png</file>
+        <file>icons/toolbar/go-next.png</file>
+        <file>icons/toolbar/go-previous.png</file>
+        <file>icons/toolbar/go-up.png</file>
+        <file>icons/toolbar/user-receive.png</file>
+        <file>icons/toolbar/user-send.png</file>
+        <file>icons/toolbar/user-trash.png</file>
+        <file>icons/toolbar/view-grid.png</file>
+        <file>icons/toolbar/view-list.png</file>
+        <file>icons/doc.png</file>
+        <file>icons/docx.png</file>
+        <file>icons/folder.png</file>
+        <file>icons/folder16.png</file>
+        <file>icons/jpeg.png</file>
+        <file>icons/jpg.png</file>
+        <file>icons/pdf.png</file>
+        <file>icons/png.png</file>
+        <file>icons/ppt.png</file>
+        <file>icons/pptx.png</file>
+        <file>icons/txt.png</file>
+        <file>icons/xls.png</file>
+        <file>icons/xlsx.png</file>
+        <file>htfm_zh.qm</file>
+    </qresource>
+</RCC>
